@@ -1,5 +1,5 @@
 site_name: MHIM Intern Resource
-theme: minima
+theme: Jekyll-Bootstrap
 
 nav:
     - Home: index.md
