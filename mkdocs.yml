@@ -1,0 +1,12 @@
+site_name: MHIM Intern Resource
+site_url: https://mhimhandbook.com
+nav:
+  - Home: index.md
+  - Housing: Housing.md
+  - SSN Acquisition: SSN Acquisition.md 
+  - Child Care: Child Care.md 
+  - Transportation: Transportation.md 
+
+
+theme: 
+  name: material
