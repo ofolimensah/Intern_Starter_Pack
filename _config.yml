@@ -1,5 +1,5 @@
 site_name: MHIM Intern Resource
-theme: readthedocs
+theme: minima
 
 nav:
     - Home: index.md
@@ -10,4 +10,6 @@ nav:
 
 plugins:
     - search
+    - toc:
+        permalink: true
 
