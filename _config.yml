@@ -1,0 +1,17 @@
+site_name: MHIM Intern Resource
+theme: readthedocs
+
+nav:
+    - Home: index.md
+      - Housing: Housing.md
+      - SSN Acquisition: SSN Acquisition.md 
+      - Child Care: Child Care.md 
+      - Transportation: Transportation.md 
+    - User Guide:
+        - Basic Usage: user-guide/basic-usage.md
+        - Advanced Usage: user-guide/advanced-usage.md
+
+plugins:
+    - search
+    - toc:
+        permalink: true
