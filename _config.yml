@@ -3,15 +3,11 @@ theme: readthedocs
 
 nav:
     - Home: index.md
-      - Housing: Housing.md
-      - SSN Acquisition: SSN Acquisition.md 
-      - Child Care: Child Care.md 
-      - Transportation: Transportation.md 
-    - User Guide:
-        - Basic Usage: user-guide/basic-usage.md
-        - Advanced Usage: user-guide/advanced-usage.md
+    - Housing: Housing.md
+    - SSN Acquisition: SSN Acquisition.md 
+    - Child Care: Child Care.md 
+    - Transportation: Transportation.md 
 
 plugins:
     - search
-    - toc:
-        permalink: true
+
