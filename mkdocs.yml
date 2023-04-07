@@ -13,6 +13,8 @@ theme:
   name: material
   logo: images/favicon.png 
   favicon: images/favicon.png 
+  features:
+    - navigation.sections
 
 
 extra: 
