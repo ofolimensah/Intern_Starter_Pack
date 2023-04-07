@@ -1,4 +1,4 @@
-# Welcome to the Intern Welcome Resource!
+# Welcome to MHIM Baltimore
 
 This resource is designed to provide you with important information and resources as you begin your internship with the Medstar Internal Medicine Residency Program. We hope you find this resource helpful and informative.
 
