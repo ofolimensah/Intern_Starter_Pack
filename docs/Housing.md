@@ -44,6 +44,13 @@ CONS: Costly (only 2 bedroom units $2000)
 
 Things to Know: ~10-15 mins from UMH, HH, and ~20 mins from GSH ~30 mins from FSH.
 
-~ Please note that the above resources are provided for your convenience only and do not represent an endorsement or recommendation by the Medstar Internal Medicine Residency Program. ~ 
 
-If you have any questions or need further assistance, please contact the program administrator at [email address].
+## RESIDENT MOVING SELLINGS 
+ 
+1)	Marvi (Selling Sofa, Bed Set…) = Contact information 570-8669994 
+2)	Abraham (Selling furniture) = Contact Information 210-4544813 
+3)	Samah (Selling some furniture) = Contact information 857-9710256 
+4)	Diwakar/ Seejal = Contact information 410-8659487 
+5)	Dhruv= Contact information 443-8083584 
+6)	Imad (selling dining table, coffee table, lamp, TV table etc.) = 312-792-4174 
+
