@@ -1,4 +1,6 @@
 # SSN Acquisition
 
 
-## How do we update the documentation on github
+## How to acquire a social security number
+
+[Social Security Service](https://www.ssa.gov/ssnumber/start.html)
