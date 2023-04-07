@@ -1,5 +1,5 @@
 site_name: MHIM Intern Resource
-site_url: www.mhim-handbook.com
+site_url: https://www.mhim-handbook.com
 
 nav:
   - Home: index.md
