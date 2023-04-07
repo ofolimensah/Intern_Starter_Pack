@@ -1,15 +1,4 @@
-site_name: MHIM Intern Resource
-theme: Jekyll-Bootstrap
-
-nav:
-    - Home: index.md
-    - Housing: Housing.md
-    - SSN Acquisition: SSN Acquisition.md 
-    - Child Care: Child Care.md 
-    - Transportation: Transportation.md 
-
-plugins:
-    - search
-    - toc:
-        permalink: true
+theme: readthedocs
+title: Intern_Resource_Page
+description: Bookmark this page
 
