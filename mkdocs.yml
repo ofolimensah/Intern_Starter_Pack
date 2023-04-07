@@ -10,4 +10,6 @@ nav:
 
 theme: 
   name: material
+  logo: images/favicon.png 
+  favicon: images/favicon.png 
 
