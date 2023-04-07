@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://ofolimensah.github.io/Intern_Starter_Pack/
     runs-on: ubuntu-latest
     needs: build
     steps:
