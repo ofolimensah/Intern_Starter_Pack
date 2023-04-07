@@ -1,5 +1,6 @@
 site_name: MHIM Intern Resource
-site_url: https://ofolimensah.github.io/Intern_Starter_Pack/
+site_url: www.mhim-handbook.com
+
 nav:
   - Home: index.md
   - Housing: Housing.md
